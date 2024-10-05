@@ -18,4 +18,5 @@ Test the app frequently across various Android versions and devices to make sure
 - **Frontend :** XML , Constraint and Relative Layouts
 - **Backend :** JAVA , Firebase , Blutooth Dependencies
 
-
+## Author 
+  - Saif Ustad
